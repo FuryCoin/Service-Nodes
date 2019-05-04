@@ -4,8 +4,11 @@
 
 ## Step 1: Downloads
 Download windows cli wallet: [wallet](https://github.com/FuryCoin/Fury/releases/download/2.0.0/Fury_2.0.0_win-cli.zip)
+
 Download blockchain [Blockchain](https://drive.google.com/open?id=1VtD9shKDlKV5wYYUUe23eSKQHa-DVkSa)
+
 Download batch file that will open your wallet and daemon[Bat](https://drive.google.com/open?id=1Ib4DPVNbXvjRMORTO74Bw4wH5679OsMC)
+
 
 ## Step 2: Moving Files
 Unzip cli wallet and move folder to where you would like to keep it.
@@ -40,7 +43,7 @@ Your stake will be active for another 15 days before it is cancelled.
 # On Linux:
 
 ## Step 1: Downloads
-Download linux cli wallet: wget https://github.com/FuryCoin/Fury/releases/download/2.0.0/Fury_2.0.0_linux_18.04-cli.tar.gz
+Download linux cli wallet [Wallet]
 Download blockchain [Blockchain](https://drive.google.com/open?id=1VtD9shKDlKV5wYYUUe23eSKQHa-DVkSa)
 Download batch file that will open your wallet and daemon[Bat](https://drive.google.com/open?id=1Ib4DPVNbXvjRMORTO74Bw4wH5679OsMC)
 
